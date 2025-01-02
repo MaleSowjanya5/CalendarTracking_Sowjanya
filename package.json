@@ -1,15 +1,3 @@
-
-import myFunction from './myModule.js';
-export default myFunction;
-import myFunction from './myModule.mjs';
-{
-  "exports": {
-    ".": {
-      "import": "./src/index.js",
-      "require": "./dist/index.cjs"
-    }
-  }
-}
 {
   "name": "communication-calendar",
   "private": true,
