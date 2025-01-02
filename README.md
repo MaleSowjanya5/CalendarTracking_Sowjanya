@@ -85,11 +85,5 @@ This application is optimized for deployment on static hosting platforms such as
 5. Submit a pull request.
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-## output
-![Uploading WhatsApp Image 2025-01-02 at 18.37.51_1a8ecb55.jpg…]()
-![Uploading WhatsApp Image 2025-01-02 at 18.38.34_b363b9fc.jpg…]()
-![Uploading WhatsApp Image 2025-01-02 at 18.38.53_5e8253da.jpg…]()
-![Uploading WhatsApp Image 2025-01-02 at 18.39.21_fb48b0f1.jpg…]()
-![Uploading WhatsApp Image 2025-01-02 at 18.40.54_d64a11a7.jpg…]()
 
 
